@@ -1,6 +1,6 @@
 # Mindful Breathing
 
-A lightweight breathing and meditation web application designed to support mindful breathing sessions and relaxation.
+A lightweight breathing and meditation web application prototype designed to support mindful breathing sessions and relaxation.
 
 ## Features
 
